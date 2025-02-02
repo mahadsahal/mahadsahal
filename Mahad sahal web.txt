@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal website of Mahad, with a motivational bio and a minimalist design">
+    <title>Mahad's Personal Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+
+        header {
+            background-color: red;
+            color: white;
+            padding: 20px;
+            font-size: 2rem;
+        }
+
+        .bio {
+            background-color: #ffffff;
+            color: red;
+            padding: 40px 20px;
+            font-size: 1.5rem;
+        }
+
+        footer {
+            background-color: red;
+            color: white;
+            padding: 10px;
+            font-size: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        h1 {
+            margin-top: 50px;
+            font-size: 3rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        mhd
+    </header>
+
+    <div class="content">
+        <h1>Welcome to My Website</h1>
+        <p>Hello, my name is Mahad. I created this page to share a little bit about myself.</p>
+        <div class="bio">
+            <p>Never give up</p>
+        </div>
+    </div>
+
+    <footer>
+        © 2025 Mahad. All rights reserved.
+    </footer>
+
+</body>
+</html>
